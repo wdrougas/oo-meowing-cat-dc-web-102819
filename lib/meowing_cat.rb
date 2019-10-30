@@ -3,5 +3,5 @@ class Cat
   attr_accessor :name
   maru = Cat.new
 end
-maru.meow
+
 
