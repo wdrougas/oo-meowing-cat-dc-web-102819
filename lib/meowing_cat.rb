@@ -4,4 +4,4 @@ class Cat
 end
 
 maru = Cat.new
-
+maru.meow
